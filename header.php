@@ -5,7 +5,7 @@
         >
           <div class="contact-info d-flex align-items-center">
             <i class="bi bi-envelope d-flex align-items-center"
-              ><a href="mailto:contact@example.com">liyanmaniq@mail.com</a></i
+              ><a href="mailto:contact@example.com">contact@liyanmaniq.com</a></i
             >
             <i class="bi bi-phone d-flex align-items-center ms-4"
               ><span>+94 71 775 8637</span></i

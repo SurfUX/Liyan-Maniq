@@ -14,17 +14,17 @@
                 <p>Sri Lanka | Madagascar | Australia</p>
                 <p>Global Gemstone Operations</p>
                 <p class="mt-3">
-                  <strong>Phone:</strong> <span>+94 XX XXX XXXX</span>
+                  <strong>Phone:</strong> <span>+94 71 775 8637</span>
                 </p>
-                <p><strong>Email:</strong> <span>info@liyanmaniq.com</span></p>
+                <p><strong>Email:</strong> <span>contact@liyanmaniq.com</span></p>
               </div>
             </div>
 
             <div class="col-lg-2 col-md-3 footer-links">
               <h4>Quick Links</h4>
               <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About Us</a></li>
                 <li><a href="#">Gem Collection</a></li>
                 <li><a href="#">Contact</a></li>
                 <li><a href="#">Privacy Policy</a></li>
